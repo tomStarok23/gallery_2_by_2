@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.gallery-container {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 200px auto;
+
+
+}
+
+img {
+    width: 250px;
+    display: flex;
+    margin: 10px 10px 3px 0;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+
+
+
+}
